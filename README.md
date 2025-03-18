@@ -28,4 +28,4 @@
 
 2025.03.18
 
-[EX02-03 Yahoo 新聞儲存 Google 試算表](EX02-03_Yahoo_新聞儲存_Google_試算表.ipynb)
+[EX02-03 Yahoo 新聞儲存 Google 試算表](EX02_03_Yahoo_新聞儲存_Google_試算表.ipynb)

@@ -64,5 +64,5 @@
 
 2025.04.29
 
-[EX05-01 Echo Bot](EX05_01_Echo_Bot)
+[EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
 

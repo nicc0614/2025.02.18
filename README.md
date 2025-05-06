@@ -60,8 +60,9 @@
 
 [EX03-06 出生人口數](EX03_06_出生人口數.ipynb)
 
+[EX03-07 Tips](EX03_07_Tips.ipynb)
+
 2025.04.29
 
 [EX05-01 Echo Bot](EX05_01_Echo_Bot)
 
-[EX03-07 Tips](EX03_07_Tips.ipynb)

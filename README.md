@@ -69,3 +69,7 @@
 [EX05-02 Ask Gemini](EX05_02_Ask_Gemini.ipynb)
 
 [EX05-03 Reply Multi-type Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
+
+2025.05.13
+
+[EX05-04 Reply Template Messages.ipynb](EX05_04_Reply_Template_Messages.ipynb)

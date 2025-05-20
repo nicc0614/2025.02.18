@@ -73,3 +73,7 @@
 2025.05.13
 
 [EX05-04 Reply Template Messages.ipynb](EX05_04_Reply_Template_Messages.ipynb)
+
+2025.05.20
+
+[EX04-01 汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
